@@ -30,7 +30,7 @@
       <workItem from="1601889736727" duration="3734000" />
       <workItem from="1601949642962" duration="13378000" />
       <workItem from="1602040586383" duration="4538000" />
-      <workItem from="1602053508841" duration="2348000" />
+      <workItem from="1602053508841" duration="4706000" />
     </task>
     <servers />
   </component>
@@ -45,6 +45,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="224" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601960935266" />
+    <state x="313" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602056809870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="313" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602056809870" />
     <state x="0" y="164" key="SettingsEditor" timestamp="1601889862386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
