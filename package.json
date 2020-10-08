@@ -1,5 +1,14 @@
 {
+  "scripts": {
+    "build": "rm -rf dist && parcel build src/test.html --no-minify --public-url ./"
+  },
   "devDependencies": {
     "cssnano": "^4.1.10"
-  }
+  },
+  "name": "Doraemon-animation-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xkaixiong/Doraemon-Pikachu.git",
+  "author": "kaixiong <258976882@qq.com>",
+  "license": "MIT"
 }
