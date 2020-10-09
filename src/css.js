@@ -332,6 +332,8 @@ const string = `* {
 }
 
 .pikachu .nose {
+    border: 8px solid #2e2e2e;
+    border-color: #2e2e2e transparent transparent transparent;
     border-bottom: none;
     width: 0;
     height: 0;
